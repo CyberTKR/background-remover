@@ -20,7 +20,8 @@ from transparent_image import TransparentImage
 
 a = TransparentImage("resim.jpg")
 
-a.make_transparent("transparan_resim.png")```
+a.make_transparent("transparan_resim.png")
+```
 ### Gereksinimler
 Python 3.6 veya daha yeni sürümleri
 pillow paketi
