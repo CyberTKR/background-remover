@@ -19,5 +19,5 @@ a.make_transparent("transparan_resim.png")
 Python 3.6 veya daha yeni sürümleri
 pillow paketi
 Lisans
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için lütfen LICENSE dosyasına bakın.
+Bu proje GNU General Public License v3.0 lisansı altında lisanslanmıştır. Daha fazla bilgi için lütfen LICENSE dosyasına bakın.
 
