@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='background-remover',
+    name='bg-remover',
     version='0.1',
     description='A Python package for making the background of an image transparent',
     author='Tolga',
