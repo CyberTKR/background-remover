@@ -4,7 +4,7 @@ Bu Python paketi, bir resmin arka planını tamamen veya kısmen transparan hale
 
 ## 🛠️ Kurulum Adımları:
 ```python
-pip install background-remover
+pip3 install bg-remover
 ```
 ### Örnek Kullanım
 
